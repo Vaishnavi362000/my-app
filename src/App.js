@@ -8,7 +8,6 @@ import About from "./components/About";
 import Navbar from "./components/Navbar";
 
 function App(){
-  let a= 20;
   return (
     <>
     <BrowserRouter>
