@@ -1,0 +1,44 @@
+{
+  "users":[
+  {
+    "id":1,
+    "name":"Leanne Graham",
+    "username":"Bret",
+    "email":"sincere@abc.biz",
+    "phone":"329519639",
+    "website":"heldegrad.org"
+  },
+  {
+    "id":2,
+    "name":"Ervin",
+    "username":"Anotte",
+    "email":"shanna@lissa.tv",
+    "phone":"42764923",
+    "website":"anastasia.net"
+  },
+  {
+    "id":3,
+    "name":"Clemen Bauch",
+    "username":"Samantha",
+    "email":"samantha@lissa.net",
+    "phone":"329519639",
+    "website":"samantha.org"
+  },
+  {
+    "id":4,
+    "name":"Patrick",
+    "username":"Karianne",
+    "email":"patrick@kory.org",
+    "phone":"448-3463-43769",
+    "website":"karie.biz"
+  },
+  {
+    "id":5,
+    "name":"Chelsy",
+    "username":"kamreen",
+    "email":"chel@yesenia.org",
+    "phone":"329-4974-3487734",
+    "website":"Chelsy.net"
+  }
+]
+}
